@@ -12,7 +12,7 @@
 //! }
 //! # Ok(()) }
 //! ```
-mod crypto;
+pub mod crypto;
 mod entry;
 mod keyring;
 pub mod reader;
